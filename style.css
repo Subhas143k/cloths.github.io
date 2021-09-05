@@ -368,4 +368,39 @@ footer .copyright a:hover{
     background-color: #fb774b;
 }
 
+.review .box img{
+    height: 12rem;
+    width: 12rem;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1rem;
+}
+
+.review .box h3{
+    color: #333;
+    font-size: 2.3rem;
+}
+
+.review .box p{
+    color: #666;
+    font-size: 1.3rem;
+    
+}
+
+.review .box .stars i{
+    color: orange;
+    font-size: 1rem;
+}
+
+.review .review-slider{
+    padding-bottom: 2rem;
+}
+
+.review .box{
+    padding: 2rem;
+    text-align: center;    
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.1);
+    border-radius: .5rem;
+}
+
 
